@@ -1,8 +1,11 @@
 {
   "name": "dext-demo-plugin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Demo plugin for Dext",
-  "keywords": ["dext", "dext-plugin"],
+  "keywords": [
+    "dext",
+    "dext-plugin"
+  ],
   "main": "index.js",
   "author": "Vu Tran <vu@vu-tran.com>",
   "license": "MIT"

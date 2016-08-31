@@ -4,7 +4,7 @@ module.exports = {
 
   action: 'openurl',
 
-  output: function(q) {
+  execute: function(q) {
     return new Promise(resolve => {
       const output = {
         items: [

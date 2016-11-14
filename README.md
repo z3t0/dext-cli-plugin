@@ -1,8 +1,11 @@
-# dext-cli-plugin
+# dext-term-plugin
 
-> Demo plugin for dext
+## Features
+[] run commands from inside dext
+[] show command feedback
+[] launch command without feedback
+[] command completion
 
-# More examples
 
 More examples are available in the `examples` folder.
 

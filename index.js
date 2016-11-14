@@ -1,10 +1,10 @@
 module.exports = {
 
   // specify your plugin's activation keyword
-  keyword: 'demo',
+  keyword: 'pm',
 
   // the action to perform when an item is selected
-  action: 'openurl',
+  action: 'exec',
 
   // this should produce your desired results.
   // this callback function has a parameter that holds

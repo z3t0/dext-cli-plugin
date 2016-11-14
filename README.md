@@ -1,4 +1,4 @@
-# dext-demo-plugins
+# dext-cli-plugin
 
 > Demo plugin for dext
 
@@ -8,4 +8,4 @@ More examples are available in the `examples` folder.
 
 # License
 
-MIT © [Vu Tran](https://github.com/vutran)
+MIT © [Rafi Khan](https://github.com/z3t0)

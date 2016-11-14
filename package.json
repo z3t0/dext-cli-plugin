@@ -1,12 +1,12 @@
 {
-  "name": "dext-demo-plugin",
-  "version": "0.2.0",
-  "description": "Demo plugin for Dext",
+  "name": "dext-cli-plugin",
+  "version": "0.0.1",
+  "description": "Package management from within dext",
   "keywords": [
     "dext",
     "dext-plugin"
   ],
   "main": "index.js",
-  "author": "Vu Tran <vu@vu-tran.com>",
+  "author": "Rafi Khan <zetoslab@gmail.com>",
   "license": "MIT"
 }

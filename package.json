@@ -1,7 +1,7 @@
 {
-  "name": "dext-cli-plugin",
-  "version": "0.0.1",
-  "description": "Package management from within dext",
+  "name": "dext-term-plugin",
+  "version": "0.0.2",
+  "description": "Run terminal commands from within dext",
   "keywords": [
     "dext",
     "dext-plugin"
